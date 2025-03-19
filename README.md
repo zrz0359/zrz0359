@@ -1,4 +1,5 @@
-## Hi  👋,i am june!
+
+ ## Hi  👋,I'm June!
 <!--
 **zrz0359/zrz0359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p align="left">
- - 🔭 聚焦数据驱动，在做的工作是end to end neural networks
+ - 🔭 聚焦数据驱动，正在做的工作是end to end neural networks
  </p>
  <p align="left">
  - 🌱 正在学习 吴恩达机器学习Deeplearning.ai课程
