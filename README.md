@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  - 🔭 聚焦数据驱动，正在做的工作是end to end neural networks
  </p>
  <p align="left">
- - 🌱 正在学习 吴恩达机器学习Deeplearning.ai课程
+ - 🌱 正在学习 机器学习Deeplearning.ai课程
  </p>
   <p align="left">
  - ⚡ 想要尝试更多的新东西
